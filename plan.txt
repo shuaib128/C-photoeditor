@@ -1,0 +1,2 @@
+Features:
+1. open a picture and add a red, green, black filter;
